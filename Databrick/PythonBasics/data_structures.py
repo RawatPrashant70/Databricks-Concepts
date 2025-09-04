@@ -50,6 +50,7 @@ class ds:
 if __name__ == "__main__":
     obj = ds()
     obj.lists([1,2,3,4,5])  #mutuable, ordered, duplicate
-    #obj.tuples((1,2,3,4,5)) #immutable, ordered, duplicate
-    #obj.dicts({ 1:"a", 2:"b" }) #mutable, ordered, unique key
-    #obj.sets({1,2,3,4,5,6}) #immutable, un-ordered, no duplicate
+    obj.tuples((1,2,3,4,5)) #immutable, ordered, duplicate
+    obj.dicts({ 1:"a", 2:"b" }) #mutable, ordered, unique key
+    obj.sets({1,2,3,4,5,6}) #immutable, un-ordered, no duplicate
+
