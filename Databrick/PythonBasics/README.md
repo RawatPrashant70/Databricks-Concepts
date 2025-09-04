@@ -3,3 +3,4 @@
 2. Lambda, Map(), Filter(), zip()
 3. *args and **kwargs in python functions
 4. Decorators, Generators
+5. Class Concepts Basic
