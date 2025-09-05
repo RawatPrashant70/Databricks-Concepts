@@ -4,3 +4,4 @@
 3. *args and **kwargs in python functions
 4. Decorators, Generators
 5. Class Concepts Basic
+6. with open() reading txt and csv files
