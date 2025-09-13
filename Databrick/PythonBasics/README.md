@@ -5,3 +5,5 @@
 4. Decorators, Generators
 5. Class Concepts Basic
 6. with open() reading txt and csv files
+7. Commonly Used python functions
+   
